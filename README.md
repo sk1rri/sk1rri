@@ -1,16 +1,14 @@
-## Hi there 👋
+# Здравствуйте, and hello
 
-<!--
-**sk1rri/sk1rri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## OTHER LANGUAGES
+[English](en_US.md)
 
-Here are some ideas to get you started:
+## Кто я?
+Довольно обычный разработчик разного вида софта на **JavaScript**, чаще **NodeJS** чем **WebJS**, иногда работаю с **Python**, но очень редко
+У меня есть *маленькие проблемки* с постановкой символов в *русском языке*, и я знаю об этом, так что не надо попровлять когда я путаю **с**десь и **з**десь и так далее
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Мои ✨ ghjtrns ✨ 
+> [!IMPORTANT]
+> Я не сменил язык специально, не надо меня исправлять
+
+- SPYLESS - [Исходники](https://github.com/sk1rri/SPYLESS), [Начать использовать](https://spyless.app)
