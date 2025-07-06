@@ -13,4 +13,4 @@ Pretty normal developer which made different stuff by this point, primarily on *
 > [!IMPORTANT]
 > I didnt change my language on purpose
 
-- SPYLESS - [Source Code (Backend)](https://github.com/sk1rri/SPYLESS), [Source Code (Frontend)](https://github.com/sk1rri/SPYLESS-frontend), [Start using it today](https://spyless.app)
+- SPYLESS - [GitHub Organization](https://github.com/spyless-app), [Start using it today](https://spyless.app)
