@@ -13,4 +13,4 @@
 > [!IMPORTANT]
 > Я не сменил язык специально, не надо меня исправлять
 
-- SPYLESS - [Исходники](https://github.com/sk1rri/SPYLESS), [Начать использовать](https://spyless.app)
+- SPYLESS - [Исходники (Сервер)](https://github.com/sk1rri/SPYLESS), [Исходники (Клиент)](https://github.com/sk1rri/SPYLESS-frontend),  [Начать использовать](https://spyless.app)
